@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi there 👋</h1>
 <p style="text-align: justify;">
-    My name is <b>Jean-Baptiste Gomez</b>. I recently graduated with dual diploma Master's degrees and an Engineering degree, specializing in Econometrics, Big Data, and Statistics at Aix-Marseille University. I am excited to pursue a career as a Data Scientist. I have a deep passion for data and data science 📈 and enjoy uncovering insights from complex datasets 📊. Always on the lookout for new challenges 🚀, I dive enthusiastically into this constantly evolving field. My ambition and determination 💪 drive me to reach new heights, and I am eager to apply my skills and knowledge to contribute to a company’s success, aiding in data-driven decision-making 🌟.
+    My name is <b>Jean-Baptiste Gomez</b>. Graduated with dual diploma Master's degrees and an Engineering degree, specializing in Econometrics, Big Data, and Statistics at Aix-Marseille University. I am excited to pursue a career as a Data Scientist. I have a deep passion for data and data science 📈 and enjoy uncovering insights from complex datasets 📊. Always on the lookout for new challenges 🚀, I dive enthusiastically into this constantly evolving field. My ambition and determination 💪 drive me to reach new heights, and I am eager to apply my skills and knowledge to contribute to a company’s success, aiding in data-driven decision-making 🌟.
 </p>
 
 
